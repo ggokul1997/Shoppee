@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.mycard{
+  height: 25.5em;
+  
+}
+
+.cardtitle{
+  height: 2.5em;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
